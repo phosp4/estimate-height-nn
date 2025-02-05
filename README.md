@@ -13,6 +13,3 @@ This project is a regression task that predicts human height using body measurem
 
 ## Requirements
 - Python, TensorFlow, Keras, Pandas, NumPy, Matplotlib, Scikit-learn.
-
-For more details, refer to the original implementation.
-
